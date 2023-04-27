@@ -1,9 +1,9 @@
 # TRABAJO N° 0 "Hello, World!” en C - 00-Hello
 
 ## Alumno: 
-Pablo Miguel Caballero Alvarez 
-Legajo: 1508040
-Usuario Github: pm-caballeroalvarez
+* Pablo Miguel Caballero Alvarez 
+* Legajo: 1508040
+* Usuario Github: pm-caballeroalvarez
 ## Enunciado
  Objetivos
 • Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
