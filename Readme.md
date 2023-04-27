@@ -4,5 +4,4 @@
 ### Alumno
 
 - Legajo 1508040
-- Caballero Alvarez
-- Pablo MIguel
+- Pablo MIguel Caballero Alvarez
